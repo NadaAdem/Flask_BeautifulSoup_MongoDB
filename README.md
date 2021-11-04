@@ -24,17 +24,14 @@ Selecting the "Scrape New Data" button will obtain the latest news, images, and 
 
 ## Add Bootstrap 3 components
 
-- The webpage is mobile-responsive.
+### The webpage is mobile-responsive.
 
-![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/phone.png)
+![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/phone.png) ![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/phone%203.png)
 
-
-![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/phone%203.png)
-
-- Styling the "Scrape New Data" button
+### Styling the "Scrape New Data" button
 
 ![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/web1.png)
 
-- Adding the hemisphere images as thumbnails, like the image below
+### Adding the hemisphere images as thumbnails, like the image below
 
 ![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/hemisphere.png)
