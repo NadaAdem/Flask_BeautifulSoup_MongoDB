@@ -19,7 +19,7 @@ Selecting the "Scrape New Data" button will obtain the latest news, images, and 
 ![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/web.png)
 
 
-### Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image.
+### Mongo database is updated to contain the full-resolution image URL, title for each hemisphere image , News and update image .
 ![image](https://github.com/NadaAdem/Mission-to-Mars/blob/main/Resources/mongo.png)
 
 ## Add Bootstrap 3 components
